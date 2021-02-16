@@ -15,7 +15,7 @@ PFMProject0AudioProcessorEditor::PFMProject0AudioProcessorEditor (PFMProject0Aud
 {
     // Make sure that before the constructor has finished, you've set the
     // editor's size to whatever you need it to be.
-    setSize (400, 350);
+    setSize (400, 300);
 }
 
 PFMProject0AudioProcessorEditor::~PFMProject0AudioProcessorEditor()
